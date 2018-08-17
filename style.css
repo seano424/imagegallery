@@ -1,0 +1,49 @@
+body {
+  background-image: url('images/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.nav-item a {
+  font-size: 20px;
+}
+
+img {
+  width: 100%;
+}
+img {
+  margin: 10px;
+  border: 10px solid black;
+}
+
+.container {
+  margin: 20px auto;
+}
+
+.jumbotron {
+  background-image: url('images/bg2.jpg');
+}
+
+h1, a {
+  font-family: 'Abril Fatface', cursive;
+}
+
+
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 2px orange, 0 0 1em blue, 0 0 0.2em black;
+  font-size: 4em;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  letter-spacing: 24px;
+}
+
+p {
+  font-family: 'Shadows Into Light', cursive;
+  color: white;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em white;
+}
+
+i.material-icons {
+  margin-right: -20px;
+}
